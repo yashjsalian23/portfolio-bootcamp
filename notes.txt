@@ -1,0 +1,14 @@
+- A website is divided into various components.
+- The number of components depends upon the features on the website. 
+    Ex: A more complex website will have more of number of components and vice-versa
+- Components: 
+    - Front end: This is the component which the users see. 
+        Tools used for developing front-end: HTML, CSS and Javascript.
+        Javascript is the only programming language which can run on browser.
+        HTML is Hyper Text Markup language
+        CSS cascading style sheets
+
+    - Back end: 
+        It is the component which works behind-the-scenes and does the computation
+    
+    
